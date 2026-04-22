@@ -5,13 +5,14 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
+    "ajv": "^8.18.0",
+    "lucide-react": "1.8.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-is": "19.2.5",
     "react-scripts": "^5.0.0",
     "recharts": "3.8.1",
-    "lucide-react": "1.8.0",
-    "tailwindcss": "4.2.4",
-    "react-is": "19.2.5"
+    "tailwindcss": "4.2.4"
   },
   "devDependencies": {
     "@types/react": "19.0.0",
